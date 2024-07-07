@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7cb30f-d6e5-46af-8a33-7f246370ae75" name="Changes" comment="I'm Learning Python. &#10;Basic Topics&#10;&#10;main.py&#10;python_intro.py&#10;basic_types.py&#10;type_conversion.py&#10;builtin_functions.py">
-      <changelist_data name="Yunus" email="info@dutajans.com" />
-      <change afterPath="$PROJECT_DIR$/alistirmalar/alistirma1_yunus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myFirstProject/ilk_hafta/operatorler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odevler/odev1_yunus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/daire_alan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/string_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/string_operations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myFirstProject/basic_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/myFirstProject/ilk_hafta/basic_types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myFirstProject/builtin_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/myFirstProject/ilk_hafta/builtin_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myFirstProject/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/myFirstProject/ilk_hafta/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myFirstProject/python_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/myFirstProject/ilk_hafta/python_intro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myFirstProject/type_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/myFirstProject/ilk_hafta/type_conversion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +102,15 @@
       <option name="presentableId" value="Default" />
       <updated>1719836410611</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="I'm Learning Python. &#10;Basic Topics&#10;&#10;main.py&#10;python_intro.py&#10;basic_types.py&#10;type_conversion.py&#10;builtin_functions.py">
+      <option name="closed" value="true" />
+      <created>1720267672402</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720267672402</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
