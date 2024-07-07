@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7cb30f-d6e5-46af-8a33-7f246370ae75" name="Changes" comment="I'm Learning Python. &#10;Basic Topics&#10;&#10;main.py&#10;python_intro.py&#10;basic_types.py&#10;type_conversion.py&#10;builtin_functions.py">
-      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/daire_alan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/string_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/string_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/list_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/lists_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/strings_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/tuple/if_elif_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/tuple/tuple_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/tuple/tuple_unpacking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/tuple/tuples_intro.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +51,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2idxJRcXwIQ0SyEb23tUTPHenCz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -110,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720267672402</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="I'm Learning Python. &#10;Basic Topics&#10;&#10;main.py&#10;python_intro.py&#10;basic_types.py&#10;type_conversion.py&#10;builtin_functions.py">
+      <option name="closed" value="true" />
+      <created>1720353383406</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720353383406</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
