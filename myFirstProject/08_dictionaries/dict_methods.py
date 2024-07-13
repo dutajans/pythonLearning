@@ -75,3 +75,18 @@ print(mytech)
 
 # update(): Sona tuple olarak veri ekliyor
 # fromkeys():
+
+# w3resource.com python exircises için kullan
+
+dic1 = {1:10, 2:20}
+dic2 = {3:10, 4:40}
+dic3 = {5:50, 6:60}
+
+dic1.update(dic2)
+dic1.update(dic3)
+
+print(mytech)
+if "C++" in mytech:
+    print("In this dict")
+else:
+    print("C++" in mytech.keys())
