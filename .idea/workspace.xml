@@ -5,14 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7cb30f-d6e5-46af-8a33-7f246370ae75" name="Changes" comment="I'm Learning Python. &#10;Basic Topics&#10;&#10;main.py&#10;python_intro.py&#10;basic_types.py&#10;type_conversion.py&#10;builtin_functions.py">
-      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/list_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/lists_intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/strings_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/tuple/if_elif_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/tuple/tuple_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/tuple/tuple_unpacking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/tuple/tuples_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myFirstProject/06_if_elif_else/if_elif_else_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odevler/odev2_yunus.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/daire_alan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/list_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/lists_intro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/string_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/string_operations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/strings_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/tuple/if_elif_else.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/tuple/tuple_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/tuple/tuple_unpacking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstProject/ikinci_hafta/tuple/tuples_intro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstProject/ilk_hafta/basic_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/myFirstProject/01_simple_basic/basic_types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstProject/ilk_hafta/builtin_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/myFirstProject/01_simple_basic/builtin_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstProject/ilk_hafta/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/myFirstProject/01_simple_basic/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstProject/ilk_hafta/operatorler.py" beforeDir="false" afterPath="$PROJECT_DIR$/myFirstProject/01_simple_basic/operatorler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstProject/ilk_hafta/python_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/myFirstProject/01_simple_basic/python_intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstProject/ilk_hafta/type_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/myFirstProject/01_simple_basic/type_conversion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,18 +73,22 @@
   &quot;keyToString&quot;: {
     &quot;Python.alistirma1_yunus.executor&quot;: &quot;Run&quot;,
     &quot;Python.odev1_yunus.executor&quot;: &quot;Run&quot;,
+    &quot;Python.odev2_yunus.executor&quot;: &quot;Run&quot;,
     &quot;Python.sil.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yunus/PycharmProjects/yunus/pythonLearning&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Yunus\PycharmProjects\yunus\pythonLearning\myFirstProject\ilk_hafta" />
-      <recent name="C:\Users\Yunus\PycharmProjects\yunus\pythonLearning" />
       <recent name="C:\Users\Yunus\PycharmProjects\yunus\pythonLearning\myFirstProject" />
+      <recent name="C:\Users\Yunus\PycharmProjects\yunus\pythonLearning\myFirstProject\ikinci_hafta\match_libary" />
+      <recent name="C:\Users\Yunus\PycharmProjects\yunus\pythonLearning\myFirstProject\ikinci_hafta\string" />
+      <recent name="C:\Users\Yunus\PycharmProjects\yunus\pythonLearning\myFirstProject\ikinci_hafta\list" />
+      <recent name="C:\Users\Yunus\PycharmProjects\yunus\pythonLearning\myFirstProject\ilk_hafta" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -124,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720353383406</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="I'm Learning Python. &#10;Basic Topics&#10;&#10;main.py&#10;python_intro.py&#10;basic_types.py&#10;type_conversion.py&#10;builtin_functions.py">
+      <option name="closed" value="true" />
+      <created>1720368904335</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720368904335</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
